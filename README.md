@@ -12,6 +12,12 @@ Hypothesis 1
 1b: Determining the most popular pick up and drop off locations in NYC.
 1c: Analyzing if there's a correlation between tipping rates and the weekdays.
 
+Hypothesis 2 
+2a: Visualizing the demand: number of Uber trips per day.
+2b: The effect of time on demand for Uber rides: distribution per month(Peak hours versus Off-Peak hours).
+2c: Month over Month Base Revenue Growth: how fast has Uber grown in the period?
+2d: Cummulative Revenue Growth Percentage from September 2014.
+
 What we are going to do:
 Visualize NYC's cab services: 1. Yellow cab service 2. FHV Cab Service 3. Uber 
 
