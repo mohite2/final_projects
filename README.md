@@ -1,30 +1,27 @@
 
-Group members:
+# Group members:
 Ishita Ghosh (ishita2019)
 Dipika Jiandani (dipika7)
 Sayali Mohite (mohite2)
 
-Project Name:
-Project Types I: Application of Markov Chain Monte Carlo Simulation in Astronomy 
+# Project Name:
+Project Types II: Cab Service Data Analysis of NYC data
 
-Hypotheses:
-We are going to answer the three statistical questions as mentioned below:
-H0: The star has a planet around it.
-Ha: The star does not have a planet around it.
-H0: A linear trend fits this data better.
-Ha: Cannot find a linear trend to fit this data.
-H0: A quadratic trend fits this data better.
-Ha: Cannot find a quadratic trend to fit this data.
+# Hypothesis 1 
+1a: Finding out the relationship between tipping rates and the Pick up and Drop off locations. 
+1b: Determining the most popular pick up and drop off locations in NYC.
+1c: Analyzing if there's a correlation between tipping rates and the weekdays.
 
-What we are going to do:
-We are going to answer the three statistical questions as mentioned below:
-To determine the slope and intercept of a line of best-fit.
-To discover a linear trend in this data.
-Selection of two baseline models for performing null Hypothesis.
-Selected baseline model is a null hypothesis, which we are going to observe.
-Implementing a Bayesian probabilistic approach for model fitting as well as model selection to realize the null hypothesis.
+# What we are going to do:
+Visualize NYC's cab services: 1. Yellow cab service 2. FHV Cab Service 3. Uber 
 
-Datasets going to use:
-Randomly generated data
+# Datasets going to use:
+http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
+Yellow Cab Data 2017
+Yellow Cab Data 2018
+Yellow Cab Data 2019
+FHV Cab Data 2019
+Uber Collated data
  
 
